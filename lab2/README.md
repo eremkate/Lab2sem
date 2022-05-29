@@ -17,7 +17,7 @@ LAB2
 Задание 2
 
 1. Создайте каталоги ~/html и ~/archive.
-![2.1](https://github.com/eremkate/screenshots/blob/main/скрин2.6.png)
 
 2. Выведите на экран содержимое каталога /usr/share. Ограничьте длину результата 5 строками. Запишите результат работы команды в файл index.html в каталоге с сайтом.
+![2.1](https://github.com/eremkate/screenshots/blob/main/скрин2.6.png)
 
