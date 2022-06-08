@@ -43,5 +43,6 @@ Lab4
 14. Переведите задание с процедурой в интерактивный режим и проанализируйте сообщение на экране.
 
 ![11](https://github.com/eremkate/screenshots/blob/main/4.9.png?raw=true)
+
 ![12](https://github.com/eremkate/screenshots/blob/main/4.10.png?raw=true)
 
